@@ -1,0 +1,24 @@
+{
+  "name": "grsi_projeto",
+  "version": "1.0.0",
+  "description": "Bom dia!",
+  "main": "maria_avila.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duarteCot/grsi_projeto.git"
+  },
+  "author": "Jose_Rego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duarteCot/grsi_projeto/issues"
+  },
+  "homepage": "https://github.com/duarteCot/grsi_projeto#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
