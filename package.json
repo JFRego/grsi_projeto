@@ -1,8 +1,8 @@
 {
   "name": "grsi_projeto",
   "version": "1.0.0",
-  "description": "Bom dia!",
-  "main": "maria_avila.js",
+  "description": "Begginig of the Project",
+  "main": "xedni.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
