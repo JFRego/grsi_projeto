@@ -9,7 +9,7 @@ app.use(express.static('./public)'));
 
 //rota principal
 app.get('/', (request, response) => {
-    response.sendFile(path.join(__dirname,('./public/index.html')))
+    response.sendFile(path.join(__dirname,('./public/home.html')))
 })
 
 const port = 3000;
